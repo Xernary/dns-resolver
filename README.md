@@ -6,7 +6,7 @@ DNS resolver command line utility for Arch Linux
 
 After cloning the repo, add the binary to path with:
 
-sudo ln -s <path/to/script> /bin/bs
+sudo ln -s <path/to/script> /bin/dns
 
 # Usage
 
